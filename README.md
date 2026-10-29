@@ -14,6 +14,13 @@
   <a href="https://github.com/2headscomsoftware">2-Heads Software Solutions</a>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/5OQWTTN839M">
+    <img src="https://img.youtube.com/vi/5OQWTTN839M/hqdefault.jpg" width="520" alt="Prometheus Code — demo">
+  </a>
+</p>
+<p align="center"><i>▶ Watch the IDE in action</i></p>
+
 ---
 
 > **This is a curated public sample.** The full source lives in a private
