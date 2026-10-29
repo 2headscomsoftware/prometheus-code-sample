@@ -31,10 +31,7 @@
 
 ## The IDE
 
-Prometheus Code is a desktop IDE built around an autonomous agent: it plans
-multi-step tasks, calls tools through a typed XML protocol, and proposes every
-filesystem/terminal mutation through a human-reviewable diff card. Models run
-locally via llama.cpp — no cloud dependency, no API keys leaving the machine.
+Local-first, privacy-respecting AI IDE — local GGUF inference via TurboQuant llama.cpp, bundled OpenCode agents, OWL/CAMEL multi-agent backend, persistent codebase knowledge graph (codebase-memory-mcp), P2P team collaboration, VS Code-compatible extensions. Zero telemetry.
 
 ### Agent runtime
 
