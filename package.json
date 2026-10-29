@@ -1,0 +1,9 @@
+{
+  "name": "prometheus-code-sample",
+  "version": "1.0.0",
+  "description": "Code samples from Prometheus Code — fs authorization policy + team relay E2E crypto",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "node --test --test-concurrency=1 tests/fs-bridge.test.js tests/team-crypto.test.js"
+  }
+}
